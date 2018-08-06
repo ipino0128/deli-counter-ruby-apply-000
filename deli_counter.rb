@@ -29,3 +29,13 @@ def now_serving(katz_deli)
     katz_deli.shift
   end
 end
+
+def deli_wheel
+  counter = 1
+  loop do 
+    counter 
+    counter += 1
+  end
+  
+  
+  
