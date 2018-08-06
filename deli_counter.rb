@@ -32,10 +32,8 @@ end
 
 def deli_wheel
   counter = 1
-  loop do 
-    counter 
+  loop do
+    counter
     counter += 1
   end
-  
-  
-  
+end
