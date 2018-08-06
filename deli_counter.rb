@@ -37,3 +37,5 @@ def deli_wheel
     counter += 1
   end
 end
+
+deli_wheel
