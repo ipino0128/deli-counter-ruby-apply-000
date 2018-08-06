@@ -30,8 +30,8 @@ def now_serving(katz_deli)
   end
 end
 
-def deli_wheel
   counter = 1
+def deli_wheel
   loop do
     counter
     counter += 1
