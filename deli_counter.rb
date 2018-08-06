@@ -32,7 +32,7 @@ end
 
   counter = 1
 def deli_wheel
-    counter
+    puts counter
     counter += 1
 end
 
